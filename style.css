@@ -381,3 +381,6 @@ footer p {
     margin: auto;
     text-align: center;
 }
+.clickable{
+    cursor:pointer;
+}
